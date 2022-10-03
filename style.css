@@ -1,0 +1,16 @@
+body {
+    color: rgb(168, 168, 235);
+    background-color: rgb(192, 85, 85);
+    font: italic 28px san-serif;
+    background-image: url(https://images.wallpapersden.com/image/download/4k-talking-to-the-moon_a2pubmuUmZqaraWkpJRobWllrWdma2U.jpg);
+}
+
+#blaze {
+    color: yellow;
+}
+.warning {
+    color: black ;
+}
+ul em{
+    color: blue;
+}
